@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+		"declaration": true,
+		"declarationDir": "build",
+		"target": "es6",
+		"module": "commonjs",
+		"esModuleInterop": true,
+		"sourceMap": true,
+		"jsx": "react",
+		"moduleResolution": "node",
+		"allowSyntheticDefaultImports": true
+	},
+	"include": ["*"],
+	"exclude": ["node_modules"]
+}
