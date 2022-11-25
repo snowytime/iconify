@@ -200,8 +200,8 @@ const main = async (framework: Frameworks) => {
 	console.log(`Building ${framework} package...`);
 
 	await Promise.all([
-		rimraf(`./${framework}/programming/**/*`),
-		rimraf(`./${framework}/countries/**/*`)
+		rimraf(`./${framework}/programming`),
+		rimraf(`./${framework}/countries`)
 	]);
 
 	await Promise.all([
