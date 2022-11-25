@@ -1,0 +1,23 @@
+{
+	"name": "@snowytime/iconify-vue",
+	"license": "MIT",
+	"version": "1.0.0",
+	"description": "",
+	"keywords": [],
+	"homepage": "https://github.com/snowytime/iconify#readme",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/snowytime/iconify.git"
+	},
+	"files": [
+		"countries",
+		"programming",
+		"ui"
+	],
+	"publishConfig": {
+		"access": "public"
+	},
+	"peerDependencies": {
+		"react": ">= 16"
+	}
+}
