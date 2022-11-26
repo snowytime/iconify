@@ -34,6 +34,7 @@ const getFiles = async (dirPath: string) => {
 enum IconCategory {
 	Programming = "programming",
 	Countries = "countries",
+	Credit = "credit",
 	Ui = "ui"
 }
 interface PackagedIcon {
@@ -201,7 +202,9 @@ const main = async (framework: Frameworks) => {
 
 	await Promise.all([
 		rimraf(`./${framework}/programming`),
-		rimraf(`./${framework}/countries`)
+		rimraf(`./${framework}/countries`),
+		rimraf(`./${framework}/credit`),
+		rimraf(`./${framework}/ui`)
 	]);
 
 	await Promise.all([
@@ -213,11 +216,21 @@ const main = async (framework: Frameworks) => {
 			esmPackageJson
 		),
 		writeJson(`./${framework}/programming/package.json`, cjsPackageJson),
-		// europe
+		// countries
 		build(framework, IconCategory.Countries, IconFormat.Cjs),
 		build(framework, IconCategory.Countries, IconFormat.Esm),
 		writeJson(`./${framework}/countries/esm/package.json`, esmPackageJson),
-		writeJson(`./${framework}/countries/package.json`, cjsPackageJson)
+		writeJson(`./${framework}/countries/package.json`, cjsPackageJson),
+		// credit
+		build(framework, IconCategory.Credit, IconFormat.Cjs),
+		build(framework, IconCategory.Credit, IconFormat.Esm),
+		writeJson(`./${framework}/credit/esm/package.json`, esmPackageJson),
+		writeJson(`./${framework}/credit/package.json`, cjsPackageJson),
+		// ui
+		build(framework, IconCategory.Ui, IconFormat.Cjs),
+		build(framework, IconCategory.Ui, IconFormat.Esm),
+		writeJson(`./${framework}/ui/esm/package.json`, esmPackageJson),
+		writeJson(`./${framework}/ui/package.json`, cjsPackageJson)
 	]);
 
 	return console.log(`Finished building ${framework} package.`);
