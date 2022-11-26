@@ -12,7 +12,8 @@
 	"files": [
 		"countries",
 		"programming",
-		"ui"
+		"ui",
+		"credit"
 	],
 	"publishConfig": {
 		"access": "public"
