@@ -60,7 +60,11 @@ const build_tag = (index: number, text: string) => {
 		case 2: {
 			return `- [${text
 				.split("/")
-				.pop()}](https://github.com/snowytime/iconify/blob/master/src/${text})\n`;
+				.pop()
+				.replace(
+					".svg",
+					""
+				)}](https://github.com/snowytime/iconify/blob/master/src/${text})\n`;
 		}
 	}
 };
