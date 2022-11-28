@@ -1,11 +1,13 @@
+// @ts-nocheck
 import { promises as fs } from "node:fs";
 import { join, dirname } from "node:path";
 import camelcase from "camelcase";
-import svgr from "@svgr/core";
+import { transform as _transform } from "@svgr/core";
 import * as babel from "@babel/core";
 import { promisify } from "node:util";
+import { default as _rimraf } from "rimraf";
 
-const rimraf = promisify(require("rimraf"));
+const rimraf = promisify(_rimraf);
 
 import { compile as compileVue } from "@vue/compiler-dom";
 
@@ -96,17 +98,14 @@ const writeJson = async (file: string, json: JsonArgument) => {
 // handle the svg logic to create the components
 let transform = {
 	react: async (svg: string, componentName: string, format: string) => {
-		let component = await svgr(
+		let component = await _transform(
 			svg,
 			{ ref: true, titleProp: true, props: { name: "string" } },
 			{ componentName }
 		);
 		let { code } = await babel.transformAsync(component, {
 			plugins: [
-				[
-					require("@babel/plugin-transform-react-jsx"),
-					{ useBuiltIns: true }
-				]
+				["@babel/plugin-transform-react-jsx", { useBuiltIns: true }]
 			]
 		});
 
@@ -194,7 +193,7 @@ const build = async (
 };
 
 // main function
-const main = async (framework: Frameworks) => {
+export const build_package = async (framework: Frameworks) => {
 	const cjsPackageJson = { module: "./esm/index.js", sideEffects: false };
 	const esmPackageJson = { type: "module", sideEffects: false };
 
@@ -236,10 +235,4 @@ const main = async (framework: Frameworks) => {
 	return console.log(`Finished building ${framework} package.`);
 };
 
-let [framework] = process.argv.slice(2);
-
-if (!framework) {
-	throw new Error("Please specify a framework");
-}
-
-main(framework as Frameworks);
+build_package(Frameworks.React);

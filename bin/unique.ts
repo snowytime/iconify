@@ -63,10 +63,14 @@ export const check_unique = async () => {
 	const files = await getFiles(join(process.cwd(), "src"));
 	const duplicates = find_duplicate_icons(files);
 	if (duplicates.length) {
-		console.log(chalk.red(`\n\n😢 ${duplicates.length} conflicts found:`));
-		console.table(duplicates);
-		console.log(chalk.grey("Resolve the conflicts and try again.\n\n"));
+		throw () => {
+			console.log(
+				chalk.red(`\n\n😢 ${duplicates.length} conflicts found:`)
+			);
+			console.table(duplicates);
+			console.log(chalk.grey("Resolve the conflicts and try again.\n\n"));
+		};
 	} else {
-		console.log(chalk.green("no duplicates found."));
+		console.log(chalk.green("✅ passed duplicate check"));
 	}
 };
