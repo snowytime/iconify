@@ -62,7 +62,7 @@ export const check_unique = async () => {
 	console.log(chalk.gray("✅ Performing uniqueness check..."));
 	const files = await getFiles(join(process.cwd(), "src"));
 	const duplicates = find_duplicate_icons(files);
-	if (duplicates) {
+	if (duplicates.length) {
 		console.log(chalk.red(`\n\n😢 ${duplicates.length} conflicts found:`));
 		console.table(duplicates);
 		console.log(chalk.grey("Resolve the conflicts and try again.\n\n"));

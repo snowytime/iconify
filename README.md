@@ -687,49 +687,49 @@ css:
 
 #### Animals
 
-- [ant-filled](https://github.com/snowytime/iconify/blob/master/src/ui/animals/ant-filled.svg)
+- [ant-fill](https://github.com/snowytime/iconify/blob/master/src/ui/animals/ant-fill.svg)
 
 - [ant](https://github.com/snowytime/iconify/blob/master/src/ui/animals/ant.svg)
 
-- [dove-filled](https://github.com/snowytime/iconify/blob/master/src/ui/animals/dove-filled.svg)
+- [dove-fill](https://github.com/snowytime/iconify/blob/master/src/ui/animals/dove-fill.svg)
 
 - [dove](https://github.com/snowytime/iconify/blob/master/src/ui/animals/dove.svg)
 
-- [fish-filled](https://github.com/snowytime/iconify/blob/master/src/ui/animals/fish-filled.svg)
+- [fish-fill](https://github.com/snowytime/iconify/blob/master/src/ui/animals/fish-fill.svg)
 
 - [fish](https://github.com/snowytime/iconify/blob/master/src/ui/animals/fish.svg)
 
-- [ladybug-filled](https://github.com/snowytime/iconify/blob/master/src/ui/animals/ladybug-filled.svg)
+- [ladybug-fill](https://github.com/snowytime/iconify/blob/master/src/ui/animals/ladybug-fill.svg)
 
 - [ladybug](https://github.com/snowytime/iconify/blob/master/src/ui/animals/ladybug.svg)
 
-- [lizzard-filled](https://github.com/snowytime/iconify/blob/master/src/ui/animals/lizzard-filled.svg)
+- [lizzard-fill](https://github.com/snowytime/iconify/blob/master/src/ui/animals/lizzard-fill.svg)
 
 - [lizzard](https://github.com/snowytime/iconify/blob/master/src/ui/animals/lizzard.svg)
 
-- [paw-filled](https://github.com/snowytime/iconify/blob/master/src/ui/animals/paw-filled.svg)
+- [paw-fill](https://github.com/snowytime/iconify/blob/master/src/ui/animals/paw-fill.svg)
 
 - [paw](https://github.com/snowytime/iconify/blob/master/src/ui/animals/paw.svg)
 
-- [rabbit-filled](https://github.com/snowytime/iconify/blob/master/src/ui/animals/rabbit-filled.svg)
+- [rabbit-fill](https://github.com/snowytime/iconify/blob/master/src/ui/animals/rabbit-fill.svg)
 
 - [rabbit](https://github.com/snowytime/iconify/blob/master/src/ui/animals/rabbit.svg)
 
-- [turtle-filled](https://github.com/snowytime/iconify/blob/master/src/ui/animals/turtle-filled.svg)
+- [turtle-fill](https://github.com/snowytime/iconify/blob/master/src/ui/animals/turtle-fill.svg)
 
 - [turtle](https://github.com/snowytime/iconify/blob/master/src/ui/animals/turtle.svg)
 
 #### Bells
 
-- [bell-filled](https://github.com/snowytime/iconify/blob/master/src/ui/bells/bell-filled.svg)
+- [bell-fill](https://github.com/snowytime/iconify/blob/master/src/ui/bells/bell-fill.svg)
 
-- [bell-ringing-filled](https://github.com/snowytime/iconify/blob/master/src/ui/bells/bell-ringing-filled.svg)
+- [bell-ringing-fill](https://github.com/snowytime/iconify/blob/master/src/ui/bells/bell-ringing-fill.svg)
 
 - [bell-ringing](https://github.com/snowytime/iconify/blob/master/src/ui/bells/bell-ringing.svg)
 
-- [bell-slashed-filled](https://github.com/snowytime/iconify/blob/master/src/ui/bells/bell-slashed-filled.svg)
+- [bell-slash](https://github.com/snowytime/iconify/blob/master/src/ui/bells/bell-slash.svg)
 
-- [bell-slashed](https://github.com/snowytime/iconify/blob/master/src/ui/bells/bell-slashed.svg)
+- [bell-slashed-fill](https://github.com/snowytime/iconify/blob/master/src/ui/bells/bell-slashed-fill.svg)
 
 - [bell](https://github.com/snowytime/iconify/blob/master/src/ui/bells/bell.svg)
 
@@ -737,31 +737,31 @@ css:
 
 - [brain](https://github.com/snowytime/iconify/blob/master/src/ui/body/brain.svg)
 
-- [ear-filled](https://github.com/snowytime/iconify/blob/master/src/ui/body/ear-filled.svg)
+- [ear-fill](https://github.com/snowytime/iconify/blob/master/src/ui/body/ear-fill.svg)
 
 - [ear](https://github.com/snowytime/iconify/blob/master/src/ui/body/ear.svg)
 
-- [eye-filled](https://github.com/snowytime/iconify/blob/master/src/ui/body/eye-filled.svg)
+- [eye-fill](https://github.com/snowytime/iconify/blob/master/src/ui/body/eye-fill.svg)
 
 - [eye-lash](https://github.com/snowytime/iconify/blob/master/src/ui/body/eye-lash.svg)
 
-- [eye-slashed-filled](https://github.com/snowytime/iconify/blob/master/src/ui/body/eye-slashed-filled.svg)
+- [eye-slash-fill](https://github.com/snowytime/iconify/blob/master/src/ui/body/eye-slash-fill.svg)
 
-- [eye-slashed](https://github.com/snowytime/iconify/blob/master/src/ui/body/eye-slashed.svg)
+- [eye-slash](https://github.com/snowytime/iconify/blob/master/src/ui/body/eye-slash.svg)
 
 - [eye](https://github.com/snowytime/iconify/blob/master/src/ui/body/eye.svg)
 
 - [eyes](https://github.com/snowytime/iconify/blob/master/src/ui/body/eyes.svg)
 
-- [lips-filled](https://github.com/snowytime/iconify/blob/master/src/ui/body/lips-filled.svg)
+- [lips-fill](https://github.com/snowytime/iconify/blob/master/src/ui/body/lips-fill.svg)
 
 - [lips](https://github.com/snowytime/iconify/blob/master/src/ui/body/lips.svg)
 
-- [mustache-filled](https://github.com/snowytime/iconify/blob/master/src/ui/body/mustache-filled.svg)
+- [mustache-fill](https://github.com/snowytime/iconify/blob/master/src/ui/body/mustache-fill.svg)
 
 - [mustache](https://github.com/snowytime/iconify/blob/master/src/ui/body/mustache.svg)
 
-- [nose-filled](https://github.com/snowytime/iconify/blob/master/src/ui/body/nose-filled.svg)
+- [nose-fill](https://github.com/snowytime/iconify/blob/master/src/ui/body/nose-fill.svg)
 
 - [nose](https://github.com/snowytime/iconify/blob/master/src/ui/body/nose.svg)
 
@@ -805,59 +805,59 @@ css:
 
 #### Clouds
 
-- [cloud-backwards-filled](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/cloud-backwards-filled.svg)
+- [cloud-backwards-fill](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/cloud-backwards-fill.svg)
 
 - [cloud-backwards](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/cloud-backwards.svg)
 
-- [cloud-checkmark-filled](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/cloud-checkmark-filled.svg)
+- [cloud-checkmark-fill](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/cloud-checkmark-fill.svg)
 
 - [cloud-checkmark](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/cloud-checkmark.svg)
 
-- [cloud-download-filled](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/cloud-download-filled.svg)
+- [cloud-download-fill](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/cloud-download-fill.svg)
 
 - [cloud-download](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/cloud-download.svg)
 
-- [cloud-error-filled](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/cloud-error-filled.svg)
+- [cloud-error-fill](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/cloud-error-fill.svg)
 
 - [cloud-error](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/cloud-error.svg)
 
-- [cloud-forward-filled](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/cloud-forward-filled.svg)
+- [cloud-forward-fill](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/cloud-forward-fill.svg)
 
 - [cloud-forward](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/cloud-forward.svg)
 
-- [cloud-key-filled](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/cloud-key-filled.svg)
+- [cloud-key-fill](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/cloud-key-fill.svg)
 
 - [cloud-key](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/cloud-key.svg)
 
-- [cloud-locked-filled](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/cloud-locked-filled.svg)
+- [cloud-locked-fill](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/cloud-locked-fill.svg)
 
 - [cloud-locked](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/cloud-locked.svg)
 
-- [cloud-off-filled](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/cloud-off-filled.svg)
+- [cloud-off-fill](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/cloud-off-fill.svg)
 
 - [cloud-off](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/cloud-off.svg)
 
-- [cloud-person-filled](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/cloud-person-filled.svg)
+- [cloud-person-fill](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/cloud-person-fill.svg)
 
 - [cloud-person](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/cloud-person.svg)
 
-- [cloud-upload-filled](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/cloud-upload-filled.svg)
+- [cloud-upload-fill](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/cloud-upload-fill.svg)
 
 - [cloud-upload](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/cloud-upload.svg)
 
-- [cloud-warning-filled](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/cloud-warning-filled.svg)
+- [cloud-warning-fill](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/cloud-warning-fill.svg)
 
 - [cloud-warning](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/cloud-warning.svg)
 
 - [cloud](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/cloud.svg)
 
-- [could-filled](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/could-filled.svg)
+- [could-fill](https://github.com/snowytime/iconify/blob/master/src/ui/clouds/could-fill.svg)
 
 #### Connectivity
 
 - [connected](https://github.com/snowytime/iconify/blob/master/src/ui/connectivity/connected.svg)
 
-- [connection-off](https://github.com/snowytime/iconify/blob/master/src/ui/connectivity/connection-off.svg)
+- [connection-slash](https://github.com/snowytime/iconify/blob/master/src/ui/connectivity/connection-slash.svg)
 
 - [connection](https://github.com/snowytime/iconify/blob/master/src/ui/connectivity/connection.svg)
 
@@ -905,13 +905,13 @@ css:
 
 #### Cosmic
 
-- [horizon-filled](https://github.com/snowytime/iconify/blob/master/src/ui/cosmic/horizon-filled.svg)
+- [horizon-fill](https://github.com/snowytime/iconify/blob/master/src/ui/cosmic/horizon-fill.svg)
 
 - [horizon](https://github.com/snowytime/iconify/blob/master/src/ui/cosmic/horizon.svg)
 
-- [moon-filled](https://github.com/snowytime/iconify/blob/master/src/ui/cosmic/moon-filled.svg)
+- [moon-fill](https://github.com/snowytime/iconify/blob/master/src/ui/cosmic/moon-fill.svg)
 
-- [moon-sparkles-filled](https://github.com/snowytime/iconify/blob/master/src/ui/cosmic/moon-sparkles-filled.svg)
+- [moon-sparkles-fill](https://github.com/snowytime/iconify/blob/master/src/ui/cosmic/moon-sparkles-fill.svg)
 
 - [moon-sparkles](https://github.com/snowytime/iconify/blob/master/src/ui/cosmic/moon-sparkles.svg)
 
@@ -919,19 +919,19 @@ css:
 
 - [sparkles](https://github.com/snowytime/iconify/blob/master/src/ui/cosmic/sparkles.svg)
 
-- [sun-filled](https://github.com/snowytime/iconify/blob/master/src/ui/cosmic/sun-filled.svg)
+- [sun-fill](https://github.com/snowytime/iconify/blob/master/src/ui/cosmic/sun-fill.svg)
 
-- [sun-rays-filled](https://github.com/snowytime/iconify/blob/master/src/ui/cosmic/sun-rays-filled.svg)
+- [sun-rays-fill](https://github.com/snowytime/iconify/blob/master/src/ui/cosmic/sun-rays-fill.svg)
 
 - [sun-rays](https://github.com/snowytime/iconify/blob/master/src/ui/cosmic/sun-rays.svg)
 
 - [sun](https://github.com/snowytime/iconify/blob/master/src/ui/cosmic/sun.svg)
 
-- [sunrise-filled](https://github.com/snowytime/iconify/blob/master/src/ui/cosmic/sunrise-filled.svg)
+- [sunrise-fill](https://github.com/snowytime/iconify/blob/master/src/ui/cosmic/sunrise-fill.svg)
 
 - [sunrise](https://github.com/snowytime/iconify/blob/master/src/ui/cosmic/sunrise.svg)
 
-- [sunset-filled](https://github.com/snowytime/iconify/blob/master/src/ui/cosmic/sunset-filled.svg)
+- [sunset-fill](https://github.com/snowytime/iconify/blob/master/src/ui/cosmic/sunset-fill.svg)
 
 - [sunset](https://github.com/snowytime/iconify/blob/master/src/ui/cosmic/sunset.svg)
 
@@ -953,7 +953,7 @@ css:
 
 #### Devices
 
-- [camera-filled](https://github.com/snowytime/iconify/blob/master/src/ui/devices/camera-filled.svg)
+- [camera-fill](https://github.com/snowytime/iconify/blob/master/src/ui/devices/camera-fill.svg)
 
 - [camera](https://github.com/snowytime/iconify/blob/master/src/ui/devices/camera.svg)
 
@@ -967,7 +967,7 @@ css:
 
 - [headphones](https://github.com/snowytime/iconify/blob/master/src/ui/devices/headphones.svg)
 
-- [keyboard-filled](https://github.com/snowytime/iconify/blob/master/src/ui/devices/keyboard-filled.svg)
+- [keyboard-fill](https://github.com/snowytime/iconify/blob/master/src/ui/devices/keyboard-fill.svg)
 
 - [keyboard](https://github.com/snowytime/iconify/blob/master/src/ui/devices/keyboard.svg)
 
@@ -989,13 +989,13 @@ css:
 
 - [megaphone](https://github.com/snowytime/iconify/blob/master/src/ui/devices/megaphone.svg)
 
-- [mouse-filled](https://github.com/snowytime/iconify/blob/master/src/ui/devices/mouse-filled.svg)
+- [mouse-fill](https://github.com/snowytime/iconify/blob/master/src/ui/devices/mouse-fill.svg)
 
 - [mouse](https://github.com/snowytime/iconify/blob/master/src/ui/devices/mouse.svg)
 
 - [music-mic](https://github.com/snowytime/iconify/blob/master/src/ui/devices/music-mic.svg)
 
-- [printer-filled](https://github.com/snowytime/iconify/blob/master/src/ui/devices/printer-filled.svg)
+- [printer-fill](https://github.com/snowytime/iconify/blob/master/src/ui/devices/printer-fill.svg)
 
 - [printer](https://github.com/snowytime/iconify/blob/master/src/ui/devices/printer.svg)
 
@@ -1035,11 +1035,11 @@ css:
 
 - [attachment](https://github.com/snowytime/iconify/blob/master/src/ui/editing/attachment.svg)
 
-- [bandage-filled](https://github.com/snowytime/iconify/blob/master/src/ui/editing/bandage-filled.svg)
+- [bandage-fill](https://github.com/snowytime/iconify/blob/master/src/ui/editing/bandage-fill.svg)
 
 - [bandage](https://github.com/snowytime/iconify/blob/master/src/ui/editing/bandage.svg)
 
-- [brush-filled](https://github.com/snowytime/iconify/blob/master/src/ui/editing/brush-filled.svg)
+- [brush-fill](https://github.com/snowytime/iconify/blob/master/src/ui/editing/brush-fill.svg)
 
 - [brush](https://github.com/snowytime/iconify/blob/master/src/ui/editing/brush.svg)
 
@@ -1049,7 +1049,7 @@ css:
 
 - [circle-horizontal-line](https://github.com/snowytime/iconify/blob/master/src/ui/editing/circle-horizontal-line.svg)
 
-- [circle-outline-filled](https://github.com/snowytime/iconify/blob/master/src/ui/editing/circle-outline-filled.svg)
+- [circle-outline-fill](https://github.com/snowytime/iconify/blob/master/src/ui/editing/circle-outline-fill.svg)
 
 - [circle-outline](https://github.com/snowytime/iconify/blob/master/src/ui/editing/circle-outline.svg)
 
@@ -1057,23 +1057,23 @@ css:
 
 - [crop](https://github.com/snowytime/iconify/blob/master/src/ui/editing/crop.svg)
 
-- [eraser-filled](https://github.com/snowytime/iconify/blob/master/src/ui/editing/eraser-filled.svg)
+- [eraser-fill](https://github.com/snowytime/iconify/blob/master/src/ui/editing/eraser-fill.svg)
 
-- [eraser-line-filled](https://github.com/snowytime/iconify/blob/master/src/ui/editing/eraser-line-filled.svg)
+- [eraser-line-fill](https://github.com/snowytime/iconify/blob/master/src/ui/editing/eraser-line-fill.svg)
 
 - [eraser-line](https://github.com/snowytime/iconify/blob/master/src/ui/editing/eraser-line.svg)
 
 - [eraser](https://github.com/snowytime/iconify/blob/master/src/ui/editing/eraser.svg)
 
-- [eyedropper-filled](https://github.com/snowytime/iconify/blob/master/src/ui/editing/eyedropper-filled.svg)
+- [eyedropper-fill](https://github.com/snowytime/iconify/blob/master/src/ui/editing/eyedropper-fill.svg)
 
 - [eyedropper](https://github.com/snowytime/iconify/blob/master/src/ui/editing/eyedropper.svg)
 
-- [flip-x-axis-filled](https://github.com/snowytime/iconify/blob/master/src/ui/editing/flip-x-axis-filled.svg)
+- [flip-x-axis-fill](https://github.com/snowytime/iconify/blob/master/src/ui/editing/flip-x-axis-fill.svg)
 
 - [flip-x-axis](https://github.com/snowytime/iconify/blob/master/src/ui/editing/flip-x-axis.svg)
 
-- [flip-y-axis-filled](https://github.com/snowytime/iconify/blob/master/src/ui/editing/flip-y-axis-filled.svg)
+- [flip-y-axis-fill](https://github.com/snowytime/iconify/blob/master/src/ui/editing/flip-y-axis-fill.svg)
 
 - [flip-y-axis](https://github.com/snowytime/iconify/blob/master/src/ui/editing/flip-y-axis.svg)
 
@@ -1089,11 +1089,11 @@ css:
 
 - [mode-3d](https://github.com/snowytime/iconify/blob/master/src/ui/editing/mode-3d.svg)
 
-- [paintbrush-filled](https://github.com/snowytime/iconify/blob/master/src/ui/editing/paintbrush-filled.svg)
+- [paintbrush-fill](https://github.com/snowytime/iconify/blob/master/src/ui/editing/paintbrush-fill.svg)
 
 - [paintbrush](https://github.com/snowytime/iconify/blob/master/src/ui/editing/paintbrush.svg)
 
-- [palette-filled](https://github.com/snowytime/iconify/blob/master/src/ui/editing/palette-filled.svg)
+- [palette-fill](https://github.com/snowytime/iconify/blob/master/src/ui/editing/palette-fill.svg)
 
 - [palette](https://github.com/snowytime/iconify/blob/master/src/ui/editing/palette.svg)
 
@@ -1103,13 +1103,13 @@ css:
 
 - [pen](https://github.com/snowytime/iconify/blob/master/src/ui/editing/pen.svg)
 
-- [pencil-disabled](https://github.com/snowytime/iconify/blob/master/src/ui/editing/pencil-disabled.svg)
-
 - [pencil-field](https://github.com/snowytime/iconify/blob/master/src/ui/editing/pencil-field.svg)
 
 - [pencil-line](https://github.com/snowytime/iconify/blob/master/src/ui/editing/pencil-line.svg)
 
 - [pencil-outline](https://github.com/snowytime/iconify/blob/master/src/ui/editing/pencil-outline.svg)
+
+- [pencil-slash](https://github.com/snowytime/iconify/blob/master/src/ui/editing/pencil-slash.svg)
 
 - [pencil-square](https://github.com/snowytime/iconify/blob/master/src/ui/editing/pencil-square.svg)
 
@@ -1117,13 +1117,13 @@ css:
 
 - [perspective](https://github.com/snowytime/iconify/blob/master/src/ui/editing/perspective.svg)
 
-- [rotate-left-filled](https://github.com/snowytime/iconify/blob/master/src/ui/editing/rotate-left-filled.svg)
+- [rotate-left-fill](https://github.com/snowytime/iconify/blob/master/src/ui/editing/rotate-left-fill.svg)
 
 - [rotate-left](https://github.com/snowytime/iconify/blob/master/src/ui/editing/rotate-left.svg)
 
 - [rotate-rd](https://github.com/snowytime/iconify/blob/master/src/ui/editing/rotate-rd.svg)
 
-- [rotate-right-filled](https://github.com/snowytime/iconify/blob/master/src/ui/editing/rotate-right-filled.svg)
+- [rotate-right-fill](https://github.com/snowytime/iconify/blob/master/src/ui/editing/rotate-right-fill.svg)
 
 - [rotate-right](https://github.com/snowytime/iconify/blob/master/src/ui/editing/rotate-right.svg)
 
@@ -1145,11 +1145,11 @@ css:
 
 - [skew](https://github.com/snowytime/iconify/blob/master/src/ui/editing/skew.svg)
 
-- [square-outline-filled](https://github.com/snowytime/iconify/blob/master/src/ui/editing/square-outline-filled.svg)
+- [square-outline-fill](https://github.com/snowytime/iconify/blob/master/src/ui/editing/square-outline-fill.svg)
 
 - [square-outline](https://github.com/snowytime/iconify/blob/master/src/ui/editing/square-outline.svg)
 
-- [swatch-filled](https://github.com/snowytime/iconify/blob/master/src/ui/editing/swatch-filled.svg)
+- [swatch-fill](https://github.com/snowytime/iconify/blob/master/src/ui/editing/swatch-fill.svg)
 
 - [swatch](https://github.com/snowytime/iconify/blob/master/src/ui/editing/swatch.svg)
 
@@ -1229,7 +1229,7 @@ css:
 
 #### Electronics
 
-- [cpu-filled](https://github.com/snowytime/iconify/blob/master/src/ui/electronics/cpu-filled.svg)
+- [cpu-fill](https://github.com/snowytime/iconify/blob/master/src/ui/electronics/cpu-fill.svg)
 
 - [cpu](https://github.com/snowytime/iconify/blob/master/src/ui/electronics/cpu.svg)
 
@@ -1239,21 +1239,21 @@ css:
 
 #### Entertainment
 
-- [controller-filled](https://github.com/snowytime/iconify/blob/master/src/ui/entertainment/controller-filled.svg)
+- [controller-fill](https://github.com/snowytime/iconify/blob/master/src/ui/entertainment/controller-fill.svg)
 
 - [controller](https://github.com/snowytime/iconify/blob/master/src/ui/entertainment/controller.svg)
 
-- [disk-filled](https://github.com/snowytime/iconify/blob/master/src/ui/entertainment/disk-filled.svg)
+- [disk-fill](https://github.com/snowytime/iconify/blob/master/src/ui/entertainment/disk-fill.svg)
 
 - [disk](https://github.com/snowytime/iconify/blob/master/src/ui/entertainment/disk.svg)
 
 - [film](https://github.com/snowytime/iconify/blob/master/src/ui/entertainment/film.svg)
 
-- [laughing-filled](https://github.com/snowytime/iconify/blob/master/src/ui/entertainment/laughing-filled.svg)
+- [laughing-fill](https://github.com/snowytime/iconify/blob/master/src/ui/entertainment/laughing-fill.svg)
 
 - [laughing](https://github.com/snowytime/iconify/blob/master/src/ui/entertainment/laughing.svg)
 
-- [ticket-filled](https://github.com/snowytime/iconify/blob/master/src/ui/entertainment/ticket-filled.svg)
+- [ticket-fill](https://github.com/snowytime/iconify/blob/master/src/ui/entertainment/ticket-fill.svg)
 
 - [ticket](https://github.com/snowytime/iconify/blob/master/src/ui/entertainment/ticket.svg)
 
@@ -1435,23 +1435,23 @@ css:
 
 #### Filesystem
 
-- [clipboard-filled](https://github.com/snowytime/iconify/blob/master/src/ui/filesystem/clipboard-filled.svg)
+- [clipboard-fill](https://github.com/snowytime/iconify/blob/master/src/ui/filesystem/clipboard-fill.svg)
 
 - [clipboard](https://github.com/snowytime/iconify/blob/master/src/ui/filesystem/clipboard.svg)
 
-- [file-filled](https://github.com/snowytime/iconify/blob/master/src/ui/filesystem/file-filled.svg)
+- [file-fill](https://github.com/snowytime/iconify/blob/master/src/ui/filesystem/file-fill.svg)
 
 - [file](https://github.com/snowytime/iconify/blob/master/src/ui/filesystem/file.svg)
 
-- [folder-filled](https://github.com/snowytime/iconify/blob/master/src/ui/filesystem/folder-filled.svg)
+- [folder-fill](https://github.com/snowytime/iconify/blob/master/src/ui/filesystem/folder-fill.svg)
 
 - [folder](https://github.com/snowytime/iconify/blob/master/src/ui/filesystem/folder.svg)
 
-- [trash-filled](https://github.com/snowytime/iconify/blob/master/src/ui/filesystem/trash-filled.svg)
+- [trash-fill](https://github.com/snowytime/iconify/blob/master/src/ui/filesystem/trash-fill.svg)
 
-- [trash-slashed-filled](https://github.com/snowytime/iconify/blob/master/src/ui/filesystem/trash-slashed-filled.svg)
+- [trash-slash-fill](https://github.com/snowytime/iconify/blob/master/src/ui/filesystem/trash-slash-fill.svg)
 
-- [trash-slashed](https://github.com/snowytime/iconify/blob/master/src/ui/filesystem/trash-slashed.svg)
+- [trash-slash](https://github.com/snowytime/iconify/blob/master/src/ui/filesystem/trash-slash.svg)
 
 - [trash](https://github.com/snowytime/iconify/blob/master/src/ui/filesystem/trash.svg)
 
@@ -1475,15 +1475,15 @@ css:
 
 #### Food
 
-- [cake-filled](https://github.com/snowytime/iconify/blob/master/src/ui/food/cake-filled.svg)
+- [cake-fill](https://github.com/snowytime/iconify/blob/master/src/ui/food/cake-fill.svg)
 
 - [cake](https://github.com/snowytime/iconify/blob/master/src/ui/food/cake.svg)
 
-- [carrot-filled](https://github.com/snowytime/iconify/blob/master/src/ui/food/carrot-filled.svg)
+- [carrot-fill](https://github.com/snowytime/iconify/blob/master/src/ui/food/carrot-fill.svg)
 
 - [carrot](https://github.com/snowytime/iconify/blob/master/src/ui/food/carrot.svg)
 
-- [coffee-filled](https://github.com/snowytime/iconify/blob/master/src/ui/food/coffee-filled.svg)
+- [coffee-fill](https://github.com/snowytime/iconify/blob/master/src/ui/food/coffee-fill.svg)
 
 - [coffee](https://github.com/snowytime/iconify/blob/master/src/ui/food/coffee.svg)
 
@@ -1493,11 +1493,11 @@ css:
 
 - [popcorn](https://github.com/snowytime/iconify/blob/master/src/ui/food/popcorn.svg)
 
-- [takeout-filled](https://github.com/snowytime/iconify/blob/master/src/ui/food/takeout-filled.svg)
+- [takeout-fill](https://github.com/snowytime/iconify/blob/master/src/ui/food/takeout-fill.svg)
 
 - [takeout](https://github.com/snowytime/iconify/blob/master/src/ui/food/takeout.svg)
 
-- [wine-filled](https://github.com/snowytime/iconify/blob/master/src/ui/food/wine-filled.svg)
+- [wine-fill](https://github.com/snowytime/iconify/blob/master/src/ui/food/wine-fill.svg)
 
 - [wine](https://github.com/snowytime/iconify/blob/master/src/ui/food/wine.svg)
 
@@ -1533,7 +1533,7 @@ css:
 
 - [decrease-quote-level](https://github.com/snowytime/iconify/blob/master/src/ui/formatting/decrease-quote-level.svg)
 
-- [fleuron-filled](https://github.com/snowytime/iconify/blob/master/src/ui/formatting/fleuron-filled.svg)
+- [fleuron-fill](https://github.com/snowytime/iconify/blob/master/src/ui/formatting/fleuron-fill.svg)
 
 - [fleuron](https://github.com/snowytime/iconify/blob/master/src/ui/formatting/fleuron.svg)
 
@@ -1605,15 +1605,15 @@ css:
 
 #### Gestures
 
-- [clapping-filled](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/clapping-filled.svg)
+- [clapping-fill](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/clapping-fill.svg)
 
-- [clapping-sparkles-filled](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/clapping-sparkles-filled.svg)
+- [clapping-sparkles-fill](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/clapping-sparkles-fill.svg)
 
 - [clapping-sparkles](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/clapping-sparkles.svg)
 
 - [clapping](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/clapping.svg)
 
-- [hand-braile-filled](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/hand-braile-filled.svg)
+- [hand-braile-fill](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/hand-braile-fill.svg)
 
 - [hand-braile](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/hand-braile.svg)
 
@@ -1621,19 +1621,19 @@ css:
 
 - [hand-point-right](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/hand-point-right.svg)
 
-- [hand-pointing-down-filled](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/hand-pointing-down-filled.svg)
+- [hand-pointing-down-fill](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/hand-pointing-down-fill.svg)
 
 - [hand-pointing-down](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/hand-pointing-down.svg)
 
 - [hand-pointing-filled](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/hand-pointing-filled.svg)
 
-- [hand-pointing-left-filled](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/hand-pointing-left-filled.svg)
+- [hand-pointing-left-fill](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/hand-pointing-left-fill.svg)
 
 - [hand-pointing-left](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/hand-pointing-left.svg)
 
-- [hand-pointing-right-filled](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/hand-pointing-right-filled.svg)
+- [hand-pointing-right-fill](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/hand-pointing-right-fill.svg)
 
-- [hand-pointing-slant-filled](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/hand-pointing-slant-filled.svg)
+- [hand-pointing-slant-fill](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/hand-pointing-slant-fill.svg)
 
 - [hand-pointing-slant](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/hand-pointing-slant.svg)
 
@@ -1641,31 +1641,31 @@ css:
 
 - [hand-slash](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/hand-slash.svg)
 
-- [hand-slashed-filled](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/hand-slashed-filled.svg)
+- [hand-slashed-fill](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/hand-slashed-fill.svg)
 
-- [hand-spread-filled](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/hand-spread-filled.svg)
+- [hand-spread-fill](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/hand-spread-fill.svg)
 
 - [hand-spread](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/hand-spread.svg)
 
-- [hand-swipe-filled](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/hand-swipe-filled.svg)
+- [hand-swipe-fill](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/hand-swipe-fill.svg)
 
 - [hand-swipe](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/hand-swipe.svg)
 
-- [hand-tap-filled](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/hand-tap-filled.svg)
+- [hand-tap-fill](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/hand-tap-fill.svg)
 
 - [hand-tap](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/hand-tap.svg)
 
-- [hand-wave-filled](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/hand-wave-filled.svg)
+- [hand-wave-fill](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/hand-wave-fill.svg)
 
 - [hand-wave](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/hand-wave.svg)
 
 - [hand](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/hand.svg)
 
-- [thumbs-down-filled](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/thumbs-down-filled.svg)
+- [thumbs-down-fill](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/thumbs-down-fill.svg)
 
 - [thumbs-down](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/thumbs-down.svg)
 
-- [thumbs-up-filled](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/thumbs-up-filled.svg)
+- [thumbs-up-fill](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/thumbs-up-fill.svg)
 
 - [thumbs-up](https://github.com/snowytime/iconify/blob/master/src/ui/gestures/thumbs-up.svg)
 
@@ -1717,23 +1717,23 @@ css:
 
 #### Home
 
-- [bath-filled](https://github.com/snowytime/iconify/blob/master/src/ui/home/bath-filled.svg)
+- [bath-fill](https://github.com/snowytime/iconify/blob/master/src/ui/home/bath-fill.svg)
 
 - [bath](https://github.com/snowytime/iconify/blob/master/src/ui/home/bath.svg)
 
-- [bed-filled](https://github.com/snowytime/iconify/blob/master/src/ui/home/bed-filled.svg)
+- [bed-fill](https://github.com/snowytime/iconify/blob/master/src/ui/home/bed-fill.svg)
 
 - [bed](https://github.com/snowytime/iconify/blob/master/src/ui/home/bed.svg)
 
-- [chair-filled](https://github.com/snowytime/iconify/blob/master/src/ui/home/chair-filled.svg)
+- [chair-fill](https://github.com/snowytime/iconify/blob/master/src/ui/home/chair-fill.svg)
 
 - [chair](https://github.com/snowytime/iconify/blob/master/src/ui/home/chair.svg)
 
-- [closet-filled](https://github.com/snowytime/iconify/blob/master/src/ui/home/closet-filled.svg)
+- [closet-fill](https://github.com/snowytime/iconify/blob/master/src/ui/home/closet-fill.svg)
 
 - [closet](https://github.com/snowytime/iconify/blob/master/src/ui/home/closet.svg)
 
-- [couch-filled](https://github.com/snowytime/iconify/blob/master/src/ui/home/couch-filled.svg)
+- [couch-fill](https://github.com/snowytime/iconify/blob/master/src/ui/home/couch-fill.svg)
 
 - [couch](https://github.com/snowytime/iconify/blob/master/src/ui/home/couch.svg)
 
@@ -1747,17 +1747,17 @@ css:
 
 - [fanblades-fill](https://github.com/snowytime/iconify/blob/master/src/ui/home/fanblades-fill.svg)
 
-- [fanblades-slash-filled](https://github.com/snowytime/iconify/blob/master/src/ui/home/fanblades-slash-filled.svg)
+- [fanblades-slash-fill](https://github.com/snowytime/iconify/blob/master/src/ui/home/fanblades-slash-fill.svg)
 
 - [fanblades-slash](https://github.com/snowytime/iconify/blob/master/src/ui/home/fanblades-slash.svg)
 
 - [fanblades](https://github.com/snowytime/iconify/blob/master/src/ui/home/fanblades.svg)
 
-- [faucet-filled](https://github.com/snowytime/iconify/blob/master/src/ui/home/faucet-filled.svg)
+- [faucet-fill](https://github.com/snowytime/iconify/blob/master/src/ui/home/faucet-fill.svg)
 
 - [faucet](https://github.com/snowytime/iconify/blob/master/src/ui/home/faucet.svg)
 
-- [fireplace-filled](https://github.com/snowytime/iconify/blob/master/src/ui/home/fireplace-filled.svg)
+- [fireplace-fill](https://github.com/snowytime/iconify/blob/master/src/ui/home/fireplace-fill.svg)
 
 - [fireplace](https://github.com/snowytime/iconify/blob/master/src/ui/home/fireplace.svg)
 
@@ -1769,83 +1769,83 @@ css:
 
 - [lamp](https://github.com/snowytime/iconify/blob/master/src/ui/home/lamp.svg)
 
-- [lightbulb-filled](https://github.com/snowytime/iconify/blob/master/src/ui/home/lightbulb-filled.svg)
+- [lightbulb-fill](https://github.com/snowytime/iconify/blob/master/src/ui/home/lightbulb-fill.svg)
 
 - [lightbulb-slash-fill](https://github.com/snowytime/iconify/blob/master/src/ui/home/lightbulb-slash-fill.svg)
 
-- [lightbulb-slashed](https://github.com/snowytime/iconify/blob/master/src/ui/home/lightbulb-slashed.svg)
+- [lightbulb-slash](https://github.com/snowytime/iconify/blob/master/src/ui/home/lightbulb-slash.svg)
 
 - [lightbulb](https://github.com/snowytime/iconify/blob/master/src/ui/home/lightbulb.svg)
 
-- [shower-alt-filled](https://github.com/snowytime/iconify/blob/master/src/ui/home/shower-alt-filled.svg)
+- [shower-alt-fill](https://github.com/snowytime/iconify/blob/master/src/ui/home/shower-alt-fill.svg)
 
 - [shower-alt](https://github.com/snowytime/iconify/blob/master/src/ui/home/shower-alt.svg)
 
-- [shower-filled](https://github.com/snowytime/iconify/blob/master/src/ui/home/shower-filled.svg)
+- [shower-fill](https://github.com/snowytime/iconify/blob/master/src/ui/home/shower-fill.svg)
 
 - [shower](https://github.com/snowytime/iconify/blob/master/src/ui/home/shower.svg)
 
-- [sofa-filled](https://github.com/snowytime/iconify/blob/master/src/ui/home/sofa-filled.svg)
+- [sofa-fill](https://github.com/snowytime/iconify/blob/master/src/ui/home/sofa-fill.svg)
 
 - [sofa](https://github.com/snowytime/iconify/blob/master/src/ui/home/sofa.svg)
 
-- [toilet-filled](https://github.com/snowytime/iconify/blob/master/src/ui/home/toilet-filled.svg)
+- [toilet-fill](https://github.com/snowytime/iconify/blob/master/src/ui/home/toilet-fill.svg)
 
 - [toilet](https://github.com/snowytime/iconify/blob/master/src/ui/home/toilet.svg)
 
 #### Information
 
-- [info-bubble-filled](https://github.com/snowytime/iconify/blob/master/src/ui/information/info-bubble-filled.svg)
+- [info-bubble-fill](https://github.com/snowytime/iconify/blob/master/src/ui/information/info-bubble-fill.svg)
 
 - [info-bubble](https://github.com/snowytime/iconify/blob/master/src/ui/information/info-bubble.svg)
 
-- [info-circle-filled](https://github.com/snowytime/iconify/blob/master/src/ui/information/info-circle-filled.svg)
+- [info-circle-fill](https://github.com/snowytime/iconify/blob/master/src/ui/information/info-circle-fill.svg)
 
 - [info-circle](https://github.com/snowytime/iconify/blob/master/src/ui/information/info-circle.svg)
 
-- [info-square-filled](https://github.com/snowytime/iconify/blob/master/src/ui/information/info-square-filled.svg)
+- [info-square-fill](https://github.com/snowytime/iconify/blob/master/src/ui/information/info-square-fill.svg)
 
 - [info-square](https://github.com/snowytime/iconify/blob/master/src/ui/information/info-square.svg)
 
-- [question-bubble-filled](https://github.com/snowytime/iconify/blob/master/src/ui/information/question-bubble-filled.svg)
+- [question-bubble-fill](https://github.com/snowytime/iconify/blob/master/src/ui/information/question-bubble-fill.svg)
 
 - [question-bubble](https://github.com/snowytime/iconify/blob/master/src/ui/information/question-bubble.svg)
 
-- [question-circle-filled](https://github.com/snowytime/iconify/blob/master/src/ui/information/question-circle-filled.svg)
+- [question-circle-fill](https://github.com/snowytime/iconify/blob/master/src/ui/information/question-circle-fill.svg)
 
 - [question-circle](https://github.com/snowytime/iconify/blob/master/src/ui/information/question-circle.svg)
 
-- [question-diamond-filled](https://github.com/snowytime/iconify/blob/master/src/ui/information/question-diamond-filled.svg)
+- [question-diamond-fill](https://github.com/snowytime/iconify/blob/master/src/ui/information/question-diamond-fill.svg)
 
 - [question-diamond](https://github.com/snowytime/iconify/blob/master/src/ui/information/question-diamond.svg)
 
 - [question-sqaure-dashed](https://github.com/snowytime/iconify/blob/master/src/ui/information/question-sqaure-dashed.svg)
 
-- [question-square-filled](https://github.com/snowytime/iconify/blob/master/src/ui/information/question-square-filled.svg)
+- [question-square-fill](https://github.com/snowytime/iconify/blob/master/src/ui/information/question-square-fill.svg)
 
 - [question-square](https://github.com/snowytime/iconify/blob/master/src/ui/information/question-square.svg)
 
-- [warning-bubble-filled](https://github.com/snowytime/iconify/blob/master/src/ui/information/warning-bubble-filled.svg)
+- [warning-bubble-fill](https://github.com/snowytime/iconify/blob/master/src/ui/information/warning-bubble-fill.svg)
 
 - [warning-bubble](https://github.com/snowytime/iconify/blob/master/src/ui/information/warning-bubble.svg)
 
-- [warning-circle-filled](https://github.com/snowytime/iconify/blob/master/src/ui/information/warning-circle-filled.svg)
+- [warning-circle-fill](https://github.com/snowytime/iconify/blob/master/src/ui/information/warning-circle-fill.svg)
 
 - [warning-circle](https://github.com/snowytime/iconify/blob/master/src/ui/information/warning-circle.svg)
 
-- [warning-octagon-filled](https://github.com/snowytime/iconify/blob/master/src/ui/information/warning-octagon-filled.svg)
+- [warning-octagon-fill](https://github.com/snowytime/iconify/blob/master/src/ui/information/warning-octagon-fill.svg)
 
 - [warning-octagon](https://github.com/snowytime/iconify/blob/master/src/ui/information/warning-octagon.svg)
 
-- [warning-shield-filled](https://github.com/snowytime/iconify/blob/master/src/ui/information/warning-shield-filled.svg)
+- [warning-shield-fill](https://github.com/snowytime/iconify/blob/master/src/ui/information/warning-shield-fill.svg)
 
 - [warning-shield](https://github.com/snowytime/iconify/blob/master/src/ui/information/warning-shield.svg)
 
-- [warning-square-filled](https://github.com/snowytime/iconify/blob/master/src/ui/information/warning-square-filled.svg)
+- [warning-square-fill](https://github.com/snowytime/iconify/blob/master/src/ui/information/warning-square-fill.svg)
 
 - [warning-square](https://github.com/snowytime/iconify/blob/master/src/ui/information/warning-square.svg)
 
-- [warning-triangle-filled](https://github.com/snowytime/iconify/blob/master/src/ui/information/warning-triangle-filled.svg)
+- [warning-triangle-fill](https://github.com/snowytime/iconify/blob/master/src/ui/information/warning-triangle-fill.svg)
 
 - [warning-triangle](https://github.com/snowytime/iconify/blob/master/src/ui/information/warning-triangle.svg)
 
@@ -1963,7 +1963,7 @@ css:
 
 #### Nature
 
-- [leaf-filled](https://github.com/snowytime/iconify/blob/master/src/ui/nature/leaf-filled.svg)
+- [leaf-fill](https://github.com/snowytime/iconify/blob/master/src/ui/nature/leaf-fill.svg)
 
 - [leaf](https://github.com/snowytime/iconify/blob/master/src/ui/nature/leaf.svg)
 
@@ -2007,47 +2007,47 @@ css:
 
 - [badge](https://github.com/snowytime/iconify/blob/master/src/ui/party/badge.svg)
 
-- [balloon-filled](https://github.com/snowytime/iconify/blob/master/src/ui/party/balloon-filled.svg)
+- [balloon-fill](https://github.com/snowytime/iconify/blob/master/src/ui/party/balloon-fill.svg)
 
 - [balloon](https://github.com/snowytime/iconify/blob/master/src/ui/party/balloon.svg)
 
-- [balloons-filled](https://github.com/snowytime/iconify/blob/master/src/ui/party/balloons-filled.svg)
+- [balloons-fill](https://github.com/snowytime/iconify/blob/master/src/ui/party/balloons-fill.svg)
 
 - [balloons](https://github.com/snowytime/iconify/blob/master/src/ui/party/balloons.svg)
 
-- [crown-filled](https://github.com/snowytime/iconify/blob/master/src/ui/party/crown-filled.svg)
+- [crown-fill](https://github.com/snowytime/iconify/blob/master/src/ui/party/crown-fill.svg)
 
 - [crown](https://github.com/snowytime/iconify/blob/master/src/ui/party/crown.svg)
 
-- [medallion-filled](https://github.com/snowytime/iconify/blob/master/src/ui/party/medallion-filled.svg)
+- [medallion-fill](https://github.com/snowytime/iconify/blob/master/src/ui/party/medallion-fill.svg)
 
 - [medallion](https://github.com/snowytime/iconify/blob/master/src/ui/party/medallion.svg)
 
-- [party-popper-filled](https://github.com/snowytime/iconify/blob/master/src/ui/party/party-popper-filled.svg)
+- [party-popper-fill](https://github.com/snowytime/iconify/blob/master/src/ui/party/party-popper-fill.svg)
 
 - [party-popper](https://github.com/snowytime/iconify/blob/master/src/ui/party/party-popper.svg)
 
-- [trophy-filled](https://github.com/snowytime/iconify/blob/master/src/ui/party/trophy-filled.svg)
+- [trophy-fill](https://github.com/snowytime/iconify/blob/master/src/ui/party/trophy-fill.svg)
 
 - [trophy](https://github.com/snowytime/iconify/blob/master/src/ui/party/trophy.svg)
 
 #### Phone
 
-- [microphone-filled](https://github.com/snowytime/iconify/blob/master/src/ui/phone/microphone-filled.svg)
+- [microphone-fill](https://github.com/snowytime/iconify/blob/master/src/ui/phone/microphone-fill.svg)
 
-- [microphone-slashed-filled](https://github.com/snowytime/iconify/blob/master/src/ui/phone/microphone-slashed-filled.svg)
+- [microphone-slash-fill](https://github.com/snowytime/iconify/blob/master/src/ui/phone/microphone-slash-fill.svg)
 
-- [microphone-slashed](https://github.com/snowytime/iconify/blob/master/src/ui/phone/microphone-slashed.svg)
+- [microphone-slash](https://github.com/snowytime/iconify/blob/master/src/ui/phone/microphone-slash.svg)
 
 - [microphone](https://github.com/snowytime/iconify/blob/master/src/ui/phone/microphone.svg)
 
-- [phone-filled](https://github.com/snowytime/iconify/blob/master/src/ui/phone/phone-filled.svg)
+- [phone-fill](https://github.com/snowytime/iconify/blob/master/src/ui/phone/phone-fill.svg)
 
-- [phone-in-filled](https://github.com/snowytime/iconify/blob/master/src/ui/phone/phone-in-filled.svg)
+- [phone-in-fill](https://github.com/snowytime/iconify/blob/master/src/ui/phone/phone-in-fill.svg)
 
 - [phone-in](https://github.com/snowytime/iconify/blob/master/src/ui/phone/phone-in.svg)
 
-- [phone-out-filled](https://github.com/snowytime/iconify/blob/master/src/ui/phone/phone-out-filled.svg)
+- [phone-out-fill](https://github.com/snowytime/iconify/blob/master/src/ui/phone/phone-out-fill.svg)
 
 - [phone-out](https://github.com/snowytime/iconify/blob/master/src/ui/phone/phone-out.svg)
 
@@ -2055,11 +2055,11 @@ css:
 
 #### Puzzle
 
-- [puzzle-alt-filled](https://github.com/snowytime/iconify/blob/master/src/ui/puzzle/puzzle-alt-filled.svg)
+- [puzzle-alt-fill](https://github.com/snowytime/iconify/blob/master/src/ui/puzzle/puzzle-alt-fill.svg)
 
 - [puzzle-alt](https://github.com/snowytime/iconify/blob/master/src/ui/puzzle/puzzle-alt.svg)
 
-- [puzzle-filled](https://github.com/snowytime/iconify/blob/master/src/ui/puzzle/puzzle-filled.svg)
+- [puzzle-fill](https://github.com/snowytime/iconify/blob/master/src/ui/puzzle/puzzle-fill.svg)
 
 - [puzzle](https://github.com/snowytime/iconify/blob/master/src/ui/puzzle/puzzle.svg)
 
@@ -2067,19 +2067,19 @@ css:
 
 - [fingerprint](https://github.com/snowytime/iconify/blob/master/src/ui/security/fingerprint.svg)
 
-- [key-filled](https://github.com/snowytime/iconify/blob/master/src/ui/security/key-filled.svg)
+- [key-fill](https://github.com/snowytime/iconify/blob/master/src/ui/security/key-fill.svg)
 
 - [key](https://github.com/snowytime/iconify/blob/master/src/ui/security/key.svg)
 
-- [lock-filled](https://github.com/snowytime/iconify/blob/master/src/ui/security/lock-filled.svg)
+- [lock-fill](https://github.com/snowytime/iconify/blob/master/src/ui/security/lock-fill.svg)
 
-- [lock-open-filled](https://github.com/snowytime/iconify/blob/master/src/ui/security/lock-open-filled.svg)
+- [lock-open-fill](https://github.com/snowytime/iconify/blob/master/src/ui/security/lock-open-fill.svg)
 
 - [lock-open](https://github.com/snowytime/iconify/blob/master/src/ui/security/lock-open.svg)
 
 - [lock](https://github.com/snowytime/iconify/blob/master/src/ui/security/lock.svg)
 
-- [shield-checkmark-filled](https://github.com/snowytime/iconify/blob/master/src/ui/security/shield-checkmark-filled.svg)
+- [shield-checkmark-fill](https://github.com/snowytime/iconify/blob/master/src/ui/security/shield-checkmark-fill.svg)
 
 - [shield-checkmark](https://github.com/snowytime/iconify/blob/master/src/ui/security/shield-checkmark.svg)
 
@@ -2087,17 +2087,17 @@ css:
 
 - [shield](https://github.com/snowytime/iconify/blob/master/src/ui/security/shield.svg)
 
-- [unverified-filled](https://github.com/snowytime/iconify/blob/master/src/ui/security/unverified-filled.svg)
+- [unverified-fill](https://github.com/snowytime/iconify/blob/master/src/ui/security/unverified-fill.svg)
 
 - [unverified](https://github.com/snowytime/iconify/blob/master/src/ui/security/unverified.svg)
 
-- [verified-filled](https://github.com/snowytime/iconify/blob/master/src/ui/security/verified-filled.svg)
+- [verified-fill](https://github.com/snowytime/iconify/blob/master/src/ui/security/verified-fill.svg)
 
 - [verified](https://github.com/snowytime/iconify/blob/master/src/ui/security/verified.svg)
 
 #### Settings
 
-- [gear-alt-filled](https://github.com/snowytime/iconify/blob/master/src/ui/settings/gear-alt-filled.svg)
+- [gear-alt-fill](https://github.com/snowytime/iconify/blob/master/src/ui/settings/gear-alt-fill.svg)
 
 - [gear-alt](https://github.com/snowytime/iconify/blob/master/src/ui/settings/gear-alt.svg)
 
@@ -2113,11 +2113,11 @@ css:
 
 - [box](https://github.com/snowytime/iconify/blob/master/src/ui/shapes/box.svg)
 
-- [circle-filled](https://github.com/snowytime/iconify/blob/master/src/ui/shapes/circle-filled.svg)
+- [circle-fill](https://github.com/snowytime/iconify/blob/master/src/ui/shapes/circle-fill.svg)
 
 - [circle](https://github.com/snowytime/iconify/blob/master/src/ui/shapes/circle.svg)
 
-- [diamond-filled](https://github.com/snowytime/iconify/blob/master/src/ui/shapes/diamond-filled.svg)
+- [diamond-fill](https://github.com/snowytime/iconify/blob/master/src/ui/shapes/diamond-fill.svg)
 
 - [diamond](https://github.com/snowytime/iconify/blob/master/src/ui/shapes/diamond.svg)
 
@@ -2129,31 +2129,31 @@ css:
 
 - [heart](https://github.com/snowytime/iconify/blob/master/src/ui/shapes/heart.svg)
 
-- [hexagon-filled](https://github.com/snowytime/iconify/blob/master/src/ui/shapes/hexagon-filled.svg)
+- [hexagon-fill](https://github.com/snowytime/iconify/blob/master/src/ui/shapes/hexagon-fill.svg)
 
 - [hexagon](https://github.com/snowytime/iconify/blob/master/src/ui/shapes/hexagon.svg)
 
-- [octogon-filled](https://github.com/snowytime/iconify/blob/master/src/ui/shapes/octogon-filled.svg)
+- [octogon-fill](https://github.com/snowytime/iconify/blob/master/src/ui/shapes/octogon-fill.svg)
 
 - [octogon](https://github.com/snowytime/iconify/blob/master/src/ui/shapes/octogon.svg)
 
-- [pentagon-filled](https://github.com/snowytime/iconify/blob/master/src/ui/shapes/pentagon-filled.svg)
+- [pentagon-fill](https://github.com/snowytime/iconify/blob/master/src/ui/shapes/pentagon-fill.svg)
 
 - [pentagon](https://github.com/snowytime/iconify/blob/master/src/ui/shapes/pentagon.svg)
 
-- [rhombus-filled](https://github.com/snowytime/iconify/blob/master/src/ui/shapes/rhombus-filled.svg)
+- [rhombus-fill](https://github.com/snowytime/iconify/blob/master/src/ui/shapes/rhombus-fill.svg)
 
 - [rhombus](https://github.com/snowytime/iconify/blob/master/src/ui/shapes/rhombus.svg)
 
-- [seal-filled](https://github.com/snowytime/iconify/blob/master/src/ui/shapes/seal-filled.svg)
+- [seal-fill](https://github.com/snowytime/iconify/blob/master/src/ui/shapes/seal-fill.svg)
 
 - [seal](https://github.com/snowytime/iconify/blob/master/src/ui/shapes/seal.svg)
 
-- [square-filled](https://github.com/snowytime/iconify/blob/master/src/ui/shapes/square-filled.svg)
+- [square-fill](https://github.com/snowytime/iconify/blob/master/src/ui/shapes/square-fill.svg)
 
 - [square](https://github.com/snowytime/iconify/blob/master/src/ui/shapes/square.svg)
 
-- [star-filled](https://github.com/snowytime/iconify/blob/master/src/ui/shapes/star-filled.svg)
+- [star-fill](https://github.com/snowytime/iconify/blob/master/src/ui/shapes/star-fill.svg)
 
 - [star-half-fill](https://github.com/snowytime/iconify/blob/master/src/ui/shapes/star-half-fill.svg)
 
@@ -2163,13 +2163,13 @@ css:
 
 - [star](https://github.com/snowytime/iconify/blob/master/src/ui/shapes/star.svg)
 
-- [triangle-filled](https://github.com/snowytime/iconify/blob/master/src/ui/shapes/triangle-filled.svg)
+- [triangle-fill](https://github.com/snowytime/iconify/blob/master/src/ui/shapes/triangle-fill.svg)
 
 - [triangle](https://github.com/snowytime/iconify/blob/master/src/ui/shapes/triangle.svg)
 
 #### Shopping
 
-- [card-filled](https://github.com/snowytime/iconify/blob/master/src/ui/shopping/card-filled.svg)
+- [card-fill](https://github.com/snowytime/iconify/blob/master/src/ui/shopping/card-fill.svg)
 
 - [card](https://github.com/snowytime/iconify/blob/master/src/ui/shopping/card.svg)
 
@@ -2177,7 +2177,7 @@ css:
 
 - [euro](https://github.com/snowytime/iconify/blob/master/src/ui/shopping/euro.svg)
 
-- [gift-card-filled](https://github.com/snowytime/iconify/blob/master/src/ui/shopping/gift-card-filled.svg)
+- [gift-card-fill](https://github.com/snowytime/iconify/blob/master/src/ui/shopping/gift-card-fill.svg)
 
 - [gift-card](https://github.com/snowytime/iconify/blob/master/src/ui/shopping/gift-card.svg)
 
@@ -2185,19 +2185,19 @@ css:
 
 - [pound](https://github.com/snowytime/iconify/blob/master/src/ui/shopping/pound.svg)
 
-- [shopping-bag-filled](https://github.com/snowytime/iconify/blob/master/src/ui/shopping/shopping-bag-filled.svg)
+- [shopping-bag-fill](https://github.com/snowytime/iconify/blob/master/src/ui/shopping/shopping-bag-fill.svg)
 
 - [shopping-bag](https://github.com/snowytime/iconify/blob/master/src/ui/shopping/shopping-bag.svg)
 
-- [shopping-basket-filled](https://github.com/snowytime/iconify/blob/master/src/ui/shopping/shopping-basket-filled.svg)
+- [shopping-basket-fill](https://github.com/snowytime/iconify/blob/master/src/ui/shopping/shopping-basket-fill.svg)
 
 - [shopping-basket](https://github.com/snowytime/iconify/blob/master/src/ui/shopping/shopping-basket.svg)
 
-- [shopping-cart-filled](https://github.com/snowytime/iconify/blob/master/src/ui/shopping/shopping-cart-filled.svg)
+- [shopping-cart-fill](https://github.com/snowytime/iconify/blob/master/src/ui/shopping/shopping-cart-fill.svg)
 
 - [shopping-cart](https://github.com/snowytime/iconify/blob/master/src/ui/shopping/shopping-cart.svg)
 
-- [tag-filled](https://github.com/snowytime/iconify/blob/master/src/ui/shopping/tag-filled.svg)
+- [tag-fill](https://github.com/snowytime/iconify/blob/master/src/ui/shopping/tag-fill.svg)
 
 - [tag](https://github.com/snowytime/iconify/blob/master/src/ui/shopping/tag.svg)
 
@@ -2219,7 +2219,7 @@ css:
 
 - [thermostat-slashed](https://github.com/snowytime/iconify/blob/master/src/ui/thermostat/thermostat-slashed.svg)
 
-- [thermostat-sun-filled](https://github.com/snowytime/iconify/blob/master/src/ui/thermostat/thermostat-sun-filled.svg)
+- [thermostat-sun-fill](https://github.com/snowytime/iconify/blob/master/src/ui/thermostat/thermostat-sun-fill.svg)
 
 - [thermostat-sun](https://github.com/snowytime/iconify/blob/master/src/ui/thermostat/thermostat-sun.svg)
 
@@ -2241,13 +2241,13 @@ css:
 
 - [flashlight-on](https://github.com/snowytime/iconify/blob/master/src/ui/tools/flashlight-on.svg)
 
-- [hammer-filled](https://github.com/snowytime/iconify/blob/master/src/ui/tools/hammer-filled.svg)
+- [hammer-fill](https://github.com/snowytime/iconify/blob/master/src/ui/tools/hammer-fill.svg)
 
 - [hammer](https://github.com/snowytime/iconify/blob/master/src/ui/tools/hammer.svg)
 
 - [magnifying-glass](https://github.com/snowytime/iconify/blob/master/src/ui/tools/magnifying-glass.svg)
 
-- [screwdriver-filled](https://github.com/snowytime/iconify/blob/master/src/ui/tools/screwdriver-filled.svg)
+- [screwdriver-fill](https://github.com/snowytime/iconify/blob/master/src/ui/tools/screwdriver-fill.svg)
 
 - [screwdriver](https://github.com/snowytime/iconify/blob/master/src/ui/tools/screwdriver.svg)
 
@@ -2255,13 +2255,13 @@ css:
 
 - [toolbox](https://github.com/snowytime/iconify/blob/master/src/ui/tools/toolbox.svg)
 
-- [tools-filled](https://github.com/snowytime/iconify/blob/master/src/ui/tools/tools-filled.svg)
-
-- [tools](https://github.com/snowytime/iconify/blob/master/src/ui/tools/tools.svg)
-
 - [tuning-fork](https://github.com/snowytime/iconify/blob/master/src/ui/tools/tuning-fork.svg)
 
 - [wrench-filled](https://github.com/snowytime/iconify/blob/master/src/ui/tools/wrench-filled.svg)
+
+- [wrench-screwdriver-fill](https://github.com/snowytime/iconify/blob/master/src/ui/tools/wrench-screwdriver-fill.svg)
+
+- [wrench-screwdriver](https://github.com/snowytime/iconify/blob/master/src/ui/tools/wrench-screwdriver.svg)
 
 - [wrench](https://github.com/snowytime/iconify/blob/master/src/ui/tools/wrench.svg)
 
@@ -2275,63 +2275,63 @@ css:
 
 - [bike](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/bike.svg)
 
-- [bus-filled](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/bus-filled.svg)
+- [bus-fill](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/bus-fill.svg)
 
 - [bus](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/bus.svg)
 
-- [car-electric-filled](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/car-electric-filled.svg)
+- [car-electric-fill](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/car-electric-fill.svg)
 
 - [car-electric](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/car-electric.svg)
 
-- [car-filled](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/car-filled.svg)
+- [car-fill](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/car-fill.svg)
 
 - [car](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/car.svg)
 
-- [cars-filled](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/cars-filled.svg)
+- [cars-fill](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/cars-fill.svg)
 
 - [cars](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/cars.svg)
 
 - [departure](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/departure.svg)
 
-- [double-decker-filled](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/double-decker-filled.svg)
+- [double-decker-fill](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/double-decker-fill.svg)
 
 - [double-decker](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/double-decker.svg)
 
-- [ferry-filled](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/ferry-filled.svg)
+- [ferry-fill](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/ferry-fill.svg)
 
 - [ferry](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/ferry.svg)
 
-- [gas-pump-filled](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/gas-pump-filled.svg)
+- [gas-pump-fill](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/gas-pump-fill.svg)
 
 - [gas-pump](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/gas-pump.svg)
 
 - [plane](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/plane.svg)
 
-- [sailboat-filled](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/sailboat-filled.svg)
+- [sailboat-fill](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/sailboat-fill.svg)
 
 - [sailboat](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/sailboat.svg)
 
 - [scooter](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/scooter.svg)
 
-- [ship-filled](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/ship-filled.svg)
+- [ship-fill](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/ship-fill.svg)
 
 - [ship](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/ship.svg)
 
 - [shipping-box](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/shipping-box.svg)
 
-- [shopping-box-filled](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/shopping-box-filled.svg)
+- [shopping-box-fill](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/shopping-box-fill.svg)
 
-- [train-filled](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/train-filled.svg)
+- [train-fill](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/train-fill.svg)
 
 - [train-tunnel](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/train-tunnel.svg)
 
 - [train](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/train.svg)
 
-- [tram-filled](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/tram-filled.svg)
+- [tram-fill](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/tram-fill.svg)
 
 - [tram](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/tram.svg)
 
-- [van-filled](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/van-filled.svg)
+- [van-fill](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/van-fill.svg)
 
 - [van](https://github.com/snowytime/iconify/blob/master/src/ui/transportation/van.svg)
 
@@ -2369,74 +2369,6 @@ css:
 
 - [carbon-monoxide](https://github.com/snowytime/iconify/blob/master/src/ui/weather/carbon-monoxide.svg)
 
-- [cloud-bolt-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/cloud-bolt-fill.svg)
-
-- [cloud-bolt-rain-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/cloud-bolt-rain-fill.svg)
-
-- [cloud-bolt-rain](https://github.com/snowytime/iconify/blob/master/src/ui/weather/cloud-bolt-rain.svg)
-
-- [cloud-bolt-sun-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/cloud-bolt-sun-fill.svg)
-
-- [cloud-bolt-sun](https://github.com/snowytime/iconify/blob/master/src/ui/weather/cloud-bolt-sun.svg)
-
-- [cloud-bolt](https://github.com/snowytime/iconify/blob/master/src/ui/weather/cloud-bolt.svg)
-
-- [cloud-drizzle-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/cloud-drizzle-fill.svg)
-
-- [cloud-drizzle](https://github.com/snowytime/iconify/blob/master/src/ui/weather/cloud-drizzle.svg)
-
-- [cloud-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/cloud-fill.svg)
-
-- [cloud-fog-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/cloud-fog-fill.svg)
-
-- [cloud-fog](https://github.com/snowytime/iconify/blob/master/src/ui/weather/cloud-fog.svg)
-
-- [cloud-hail-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/cloud-hail-fill.svg)
-
-- [cloud-hail](https://github.com/snowytime/iconify/blob/master/src/ui/weather/cloud-hail.svg)
-
-- [cloud-heavy-rain-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/cloud-heavy-rain-fill.svg)
-
-- [cloud-heavy-rain](https://github.com/snowytime/iconify/blob/master/src/ui/weather/cloud-heavy-rain.svg)
-
-- [cloud-moon-bolt-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/cloud-moon-bolt-fill.svg)
-
-- [cloud-moon-bolt](https://github.com/snowytime/iconify/blob/master/src/ui/weather/cloud-moon-bolt.svg)
-
-- [cloud-moon-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/cloud-moon-fill.svg)
-
-- [cloud-moon-rain-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/cloud-moon-rain-fill.svg)
-
-- [cloud-moon-rain](https://github.com/snowytime/iconify/blob/master/src/ui/weather/cloud-moon-rain.svg)
-
-- [cloud-moon](https://github.com/snowytime/iconify/blob/master/src/ui/weather/cloud-moon.svg)
-
-- [cloud-rain-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/cloud-rain-fill.svg)
-
-- [cloud-rain](https://github.com/snowytime/iconify/blob/master/src/ui/weather/cloud-rain.svg)
-
-- [cloud-sleet-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/cloud-sleet-fill.svg)
-
-- [cloud-sleet](https://github.com/snowytime/iconify/blob/master/src/ui/weather/cloud-sleet.svg)
-
-- [cloud-smoke-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/cloud-smoke-fill.svg)
-
-- [cloud-smoke](https://github.com/snowytime/iconify/blob/master/src/ui/weather/cloud-smoke.svg)
-
-- [cloud-snow-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/cloud-snow-fill.svg)
-
-- [cloud-snow](https://github.com/snowytime/iconify/blob/master/src/ui/weather/cloud-snow.svg)
-
-- [cloud-sun-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/cloud-sun-fill.svg)
-
-- [cloud-sun-rain-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/cloud-sun-rain-fill.svg)
-
-- [cloud-sun-rain](https://github.com/snowytime/iconify/blob/master/src/ui/weather/cloud-sun-rain.svg)
-
-- [cloud-sun](https://github.com/snowytime/iconify/blob/master/src/ui/weather/cloud-sun.svg)
-
-- [cloud](https://github.com/snowytime/iconify/blob/master/src/ui/weather/cloud.svg)
-
 - [drop-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/drop-fill.svg)
 
 - [drop](https://github.com/snowytime/iconify/blob/master/src/ui/weather/drop.svg)
@@ -2448,6 +2380,74 @@ css:
 - [snow](https://github.com/snowytime/iconify/blob/master/src/ui/weather/snow.svg)
 
 - [tornado](https://github.com/snowytime/iconify/blob/master/src/ui/weather/tornado.svg)
+
+- [weather-cloud-bolt-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/weather-cloud-bolt-fill.svg)
+
+- [weather-cloud-bolt-rain-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/weather-cloud-bolt-rain-fill.svg)
+
+- [weather-cloud-bolt-rain](https://github.com/snowytime/iconify/blob/master/src/ui/weather/weather-cloud-bolt-rain.svg)
+
+- [weather-cloud-bolt-sun-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/weather-cloud-bolt-sun-fill.svg)
+
+- [weather-cloud-bolt-sun](https://github.com/snowytime/iconify/blob/master/src/ui/weather/weather-cloud-bolt-sun.svg)
+
+- [weather-cloud-bolt](https://github.com/snowytime/iconify/blob/master/src/ui/weather/weather-cloud-bolt.svg)
+
+- [weather-cloud-drizzle-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/weather-cloud-drizzle-fill.svg)
+
+- [weather-cloud-drizzle](https://github.com/snowytime/iconify/blob/master/src/ui/weather/weather-cloud-drizzle.svg)
+
+- [weather-cloud-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/weather-cloud-fill.svg)
+
+- [weather-cloud-fog-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/weather-cloud-fog-fill.svg)
+
+- [weather-cloud-fog](https://github.com/snowytime/iconify/blob/master/src/ui/weather/weather-cloud-fog.svg)
+
+- [weather-cloud-hail-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/weather-cloud-hail-fill.svg)
+
+- [weather-cloud-hail](https://github.com/snowytime/iconify/blob/master/src/ui/weather/weather-cloud-hail.svg)
+
+- [weather-cloud-heavy-rain-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/weather-cloud-heavy-rain-fill.svg)
+
+- [weather-cloud-heavy-rain](https://github.com/snowytime/iconify/blob/master/src/ui/weather/weather-cloud-heavy-rain.svg)
+
+- [weather-cloud-moon-bolt-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/weather-cloud-moon-bolt-fill.svg)
+
+- [weather-cloud-moon-bolt](https://github.com/snowytime/iconify/blob/master/src/ui/weather/weather-cloud-moon-bolt.svg)
+
+- [weather-cloud-moon-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/weather-cloud-moon-fill.svg)
+
+- [weather-cloud-moon-rain-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/weather-cloud-moon-rain-fill.svg)
+
+- [weather-cloud-moon-rain](https://github.com/snowytime/iconify/blob/master/src/ui/weather/weather-cloud-moon-rain.svg)
+
+- [weather-cloud-moon](https://github.com/snowytime/iconify/blob/master/src/ui/weather/weather-cloud-moon.svg)
+
+- [weather-cloud-rain-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/weather-cloud-rain-fill.svg)
+
+- [weather-cloud-rain](https://github.com/snowytime/iconify/blob/master/src/ui/weather/weather-cloud-rain.svg)
+
+- [weather-cloud-sleet-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/weather-cloud-sleet-fill.svg)
+
+- [weather-cloud-sleet](https://github.com/snowytime/iconify/blob/master/src/ui/weather/weather-cloud-sleet.svg)
+
+- [weather-cloud-smoke-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/weather-cloud-smoke-fill.svg)
+
+- [weather-cloud-smoke](https://github.com/snowytime/iconify/blob/master/src/ui/weather/weather-cloud-smoke.svg)
+
+- [weather-cloud-snow-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/weather-cloud-snow-fill.svg)
+
+- [weather-cloud-snow](https://github.com/snowytime/iconify/blob/master/src/ui/weather/weather-cloud-snow.svg)
+
+- [weather-cloud-sun-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/weather-cloud-sun-fill.svg)
+
+- [weather-cloud-sun-rain-fill](https://github.com/snowytime/iconify/blob/master/src/ui/weather/weather-cloud-sun-rain-fill.svg)
+
+- [weather-cloud-sun-rain](https://github.com/snowytime/iconify/blob/master/src/ui/weather/weather-cloud-sun-rain.svg)
+
+- [weather-cloud-sun](https://github.com/snowytime/iconify/blob/master/src/ui/weather/weather-cloud-sun.svg)
+
+- [weather-cloud](https://github.com/snowytime/iconify/blob/master/src/ui/weather/weather-cloud.svg)
 
 - [wind-snow](https://github.com/snowytime/iconify/blob/master/src/ui/weather/wind-snow.svg)
 
