@@ -37,3 +37,5 @@ css:
 	--foreground: #fff;
 }
 ```
+
+### Table of Contents
