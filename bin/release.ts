@@ -35,5 +35,3 @@ export async function release(release: ReleaseEnum) {
 		throw () => console.log(`❌ Error performing release.`);
 	}
 }
-
-release(ReleaseEnum.Patch);
