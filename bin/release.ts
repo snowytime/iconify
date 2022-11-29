@@ -28,8 +28,8 @@ export async function release(release: ReleaseEnum) {
 			`git add . && git commit -m '🥳 auto ${release}' && git push origin master`
 		);
 		// release each package
-		await exec_promise("cd react && npm release");
-		await exec_promise("cd vue && npm release");
+		await exec_promise("cd react && npm publish");
+		await exec_promise("cd vue && npm publish");
 		console.log(`✅ ${release} successful`);
 	} catch (e) {
 		throw () => console.log(`❌ Error performing release.`);
