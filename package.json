@@ -10,19 +10,9 @@
 		"node": ">=14.16"
 	},
 	"scripts": {
-		"build-react": "ts-node './generate.ts' react",
-		"build-vue": "ts-node './generate.ts' vue",
-		"build": "npm run build-react && npm run build-vue",
-		"release:patch:react": "npm run build-react && git add . && git commit -m 'auto deploy' && git push origin master && cd react && npm version patch && npm publish",
-		"release:minor:react": "npm run build-react && git add . && git commit -m 'auto deploy' && git push origin master && cd react && npm version minor && npm publish",
-		"release:major:react": "npm run build-react && git add . && git commit -m 'auto deploy' && git push origin master && cd react && npm version major && npm publish",
-		"release:patch:vue": "npm run build-vue && git add . && git commit -m 'auto deploy' && git push origin master && cd vue && npm version patch && npm publish",
-		"release:minor:vue": "npm run build-vue && git add . && git commit -m 'auto deploy' && git push origin master && cd vue && npm version minor && npm publish",
-		"release:major:vue": "npm run build-vue && git add . && git commit -m 'auto deploy' && git push origin master && cd vue && npm version major && npm publish",
-		"release:patch": "npm run release:patch:react && npm run release:patch:vue",
-		"release:minor": "npm run release:minor:react && npm run release:minor:vue",
-		"release:major": "npm run release:major:react && npm run release:major:vue",
-		"cli": "ts-node ./bin/cli.ts unique"
+		"release:patch": "ts-node ./bin/iconify.ts patch",
+		"release:minor": "ts-node ./bin/iconify.ts minor",
+		"release:major": "ts-node ./bin/iconify.ts major"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.20.5",

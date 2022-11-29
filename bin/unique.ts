@@ -1,8 +1,6 @@
-#!/usr/bin/env ts-node
 import { promises as fs } from "node:fs";
 import { join } from "node:path";
 import chalk from "chalk";
-// import { ChildProcess } from "node:child_process";
 
 export const recursiveSearch = async (directory: string, fileArr: string[]) => {
 	const filesInDirectory = await fs.readdir(directory);
@@ -23,9 +21,6 @@ export const getFiles = async (dirPath: string) => {
 	await recursiveSearch(dirPath, files);
 	return files;
 };
-/**
- * Functions that checks that all icons are unique within the icon namespace
- */
 
 const find_duplicate_icons = (paths: string[]) => {
 	// this is the reference dictionary
