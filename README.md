@@ -1873,7 +1873,15 @@ css:
 
 - [minimize](https://github.com/snowytime/iconify/blob/master/src/ui/lines/minimize.svg)
 
+- [minus-square-fill](https://github.com/snowytime/iconify/blob/master/src/ui/lines/minus-square-fill.svg)
+
+- [minus-square](https://github.com/snowytime/iconify/blob/master/src/ui/lines/minus-square.svg)
+
 - [not-allowed](https://github.com/snowytime/iconify/blob/master/src/ui/lines/not-allowed.svg)
+
+- [plus-square-fill](https://github.com/snowytime/iconify/blob/master/src/ui/lines/plus-square-fill.svg)
+
+- [plus-square](https://github.com/snowytime/iconify/blob/master/src/ui/lines/plus-square.svg)
 
 #### Location
 
