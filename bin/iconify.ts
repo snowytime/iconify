@@ -1,5 +1,5 @@
 import { check_unique } from "./unique.js";
-import { generate_readme } from "./readme.js";
+import { generate_readme } from "./build_readme.js";
 import { build_package, Frameworks } from "./build.js";
 import { release, ReleaseEnum } from "./release.js";
 
